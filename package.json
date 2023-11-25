@@ -1,0 +1,9 @@
+{
+  "name": "claimbean",
+  "version": "1.0.0",
+  "description": "Claim 10 beans without Ads",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Farzani",
+  "license": "ISC"
+}
